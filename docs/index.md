@@ -13,3 +13,4 @@ Follow these general instructions
 
 1. Go to the website
 2. Click press 
+3. Commit changes
